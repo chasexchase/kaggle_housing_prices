@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project ---
+data/raw/*
+!data/raw/.gitkeep
+telegram_credits.json
+checkpoints/
+catboost_info/
